@@ -7,12 +7,6 @@ public class BattleshipController {
 	int player_num;
 	int row,col;
 	
-	/*public BattleshipController(BattleshipModel m1,BattleshipModel m2,BattleshipView view)
-	{
-		this.model1=m1;
-		this.model2=m2;
-		this.view=view;
-	}*/
 	
 	public BattleshipController(BattleshipModel m1,BattleshipView v1,BattleshipView v2)
 	{
